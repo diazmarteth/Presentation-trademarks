@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://diazmarteth.github.io/Presentation-trademarks/manifests/manifest.json",
     "label" : "Presentation-trademarks-StAnthony"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://diazmarteth.github.io/Presentation-trademarks/manifests/manifest2.json",
+    "label" : "Presentation-trademarks-StAnthony"
   } ]
 }
