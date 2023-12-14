@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 1717,
+    "id" : "https://diazmarteth.github.io/Presentation-trademarks/images/ASB-Gei_Page_2/canvas/",
+    "label" : {
+      "none" : [ "ASB-Gei_Page_2" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://diazmarteth.github.io/Presentation-trademarks/images/ASB-Gei_Page_2/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://diazmarteth.github.io/Presentation-trademarks/images/ASB-Gei_Page_2/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 54,
+              "height" : 70
+            }, {
+              "width" : 108,
+              "height" : 140
+            }, {
+              "width" : 215,
+              "height" : 280
+            }, {
+              "width" : 430,
+              "height" : 559
+            }, {
+              "width" : 859,
+              "height" : 1117
+            }, {
+              "width" : 1717,
+              "height" : 2233
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 1717,
+            "@id" : "https://diazmarteth.github.io/Presentation-trademarks/images/ASB-Gei_Page_2",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 2233
+          } ],
+          "format" : "image/jpeg",
+          "width" : 1717,
+          "id" : "https://diazmarteth.github.io/Presentation-trademarks/images/ASB-Gei_Page_2/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 2233
+        },
+        "target" : "https://diazmarteth.github.io/Presentation-trademarks/images/ASB-Gei_Page_2/canvas/"
+      } ]
+    } ],
+    "height" : 2233
+  }, {
     "width" : 6000,
     "id" : "https://diazmarteth.github.io/Presentation-trademarks/images/StAnthony-Relics_01/canvas/",
     "label" : {
