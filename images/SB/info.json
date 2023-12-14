@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 311,
+    "height" : 220
+  }, {
+    "width" : 621,
+    "height" : 439
+  }, {
+    "width" : 1241,
+    "height" : 877
+  }, {
+    "width" : 2481,
+    "height" : 1754
+  }, {
+    "width" : 4961,
+    "height" : 3508
+  }, {
+    "width" : 9922,
+    "height" : 7016
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 9922,
+  "@id" : "https://diazmarteth.github.io/Presentation-trademarks/images/SB",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 7016
+}
