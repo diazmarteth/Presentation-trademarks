@@ -1,0 +1,153 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://diazmarteth.github.io/Presentation-trademarks/manifests/manifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "Presentation-trademarks-StAnthony",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "[Click to edit description]",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://80b00736-132a-4b12-97d8-a3be5350a892",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://5d7063c8-093b-49e6-ba8f-37d62208e5bc",
+      "@type" : "sc:Canvas",
+      "label" : "StAnthony-aerial-view",
+      "height" : 3078,
+      "width" : 5472,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://317dac20-ae4d-40a0-b506-70f7939381ab",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://diazmarteth.github.io/Presentation-trademarks/images/DJI_0806/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://diazmarteth.github.io/Presentation-trademarks/images/DJI_0806",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3078,
+          "width" : 5472
+        },
+        "on" : "http://5d7063c8-093b-49e6-ba8f-37d62208e5bc"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://51315e99-98f0-4f30-902f-2b0eb31cedbd",
+      "@type" : "sc:Canvas",
+      "label" : "StAnthony-longitudinal-s",
+      "height" : 7016,
+      "width" : 9922,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://62642d43-8b98-4508-8114-cc29405e8afb",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://diazmarteth.github.io/Presentation-trademarks/images/SB/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://diazmarteth.github.io/Presentation-trademarks/images/SB",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 7016,
+          "width" : 9922
+        },
+        "on" : "http://51315e99-98f0-4f30-902f-2b0eb31cedbd"
+      } ],
+      "related" : "LV-MD"
+    }, {
+      "@id" : "http://802d7ee8-52a0-4d91-88af-8d15df5f09af",
+      "@type" : "sc:Canvas",
+      "label" : "trademarks-survey",
+      "height" : 3508,
+      "width" : 4961,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://c7fc5c00-faa5-4a6e-941e-b53d851dfd77",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://diazmarteth.github.io/Presentation-trademarks/images/StAnthony_trademarks-collection/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://diazmarteth.github.io/Presentation-trademarks/images/StAnthony_trademarks-collection",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3508,
+          "width" : 4961
+        },
+        "on" : "http://802d7ee8-52a0-4d91-88af-8d15df5f09af"
+      } ],
+      "related" : "MD"
+    }, {
+      "@id" : "http://98567912-e8c4-44c5-b3f8-2fca4a7e194c",
+      "@type" : "sc:Canvas",
+      "label" : "Gei-trademark",
+      "height" : 4000,
+      "width" : 6000,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://9f3058af-1594-479b-8f4a-9aef035858c8",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://diazmarteth.github.io/Presentation-trademarks/images/StAnthony-Relics_01/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://diazmarteth.github.io/Presentation-trademarks/images/StAnthony-Relics_01",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 4000,
+          "width" : 6000
+        },
+        "on" : "http://98567912-e8c4-44c5-b3f8-2fca4a7e194c"
+      } ],
+      "related" : "MD"
+    }, {
+      "@id" : "http://cda7d236-c0c2-4e3c-bcf2-2091e666c9a6",
+      "@type" : "sc:Canvas",
+      "label" : "Gei-signature",
+      "height" : 2233,
+      "width" : 1717,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://92a25604-7b8c-4143-af64-9d35f387c825",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://diazmarteth.github.io/Presentation-trademarks/images/ASB-Gei_Page_2/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://diazmarteth.github.io/Presentation-trademarks/images/ASB-Gei_Page_2",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2233,
+          "width" : 1717
+        },
+        "on" : "http://cda7d236-c0c2-4e3c-bcf2-2091e666c9a6"
+      } ],
+      "related" : "ArchivioStatoBelluno"
+    } ]
+  } ],
+  "structures" : [ ]
+}
