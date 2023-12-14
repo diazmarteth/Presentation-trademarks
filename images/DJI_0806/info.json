@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 171,
+    "height" : 97
+  }, {
+    "width" : 342,
+    "height" : 193
+  }, {
+    "width" : 684,
+    "height" : 385
+  }, {
+    "width" : 1368,
+    "height" : 770
+  }, {
+    "width" : 2736,
+    "height" : 1539
+  }, {
+    "width" : 5472,
+    "height" : 3078
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 5472,
+  "@id" : "https://diazmarteth.github.io/Presentation-trademarks/images/DJI_0806",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 3078
+}
